@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Background
+  - MaterialButtonLayer
+  - MaterialText
+  - MaterialRadioButton
+  - QuizPanel
+  - Enemy
+  - Ground
+  - Headquarters
+  - Flame
+  - Boss
+  - Music
+  - Data
+  - OtherMusic
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Quiz
+  - Water
+  - UI
+  - Enemy
+  - Player
+  - Ground
+  - Headquarters
+  - Flame
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 2211764905
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Quiz
+    uniqueID: 2979995037
+    locked: 0
